@@ -1,0 +1,4 @@
+*.json
+static/models/
+env/
+__pycache__/
